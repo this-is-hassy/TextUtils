@@ -4,7 +4,7 @@ TextUtils is a versatile website built with React, offering various functionalit
 
 ## Live Demo
 
-Explore the live demo at [TextUtils](https://text-utils-henna.vercel.app/).
+Explore the live demo at [TextUtils](https://text-utils-jet.vercel.app/).
 
 ## Features
 
